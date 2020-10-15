@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Foros
-permalink: /foros/
+permalink: /foros
 ---
 
 ## Comunidades y foros

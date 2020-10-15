@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Comenzando
-permalink: /comenzando/
+permalink: /comenzando
 ---
 # Soporte de Hardware
 
