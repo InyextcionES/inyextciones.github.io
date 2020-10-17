@@ -2,7 +2,6 @@
 layout: page
 title: Inicio
 subtitle: Esta página te servirá para comenzar el proceso de instalación de macOS
-exclude: yes
 sitemap:
   priority: 0.9
 ---
