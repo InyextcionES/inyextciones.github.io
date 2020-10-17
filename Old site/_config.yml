@@ -1,8 +1,0 @@
-title: InyextcionES
-baseurl: "/inicio"
-url: "inyextciones.github.io"
-github_username: InyextcionES
-destination: ./build
-theme: minima
-plugins:
-  - jekyll-feed
